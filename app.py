@@ -3,7 +3,7 @@ import openai
 import os
 from dotenv import load_dotenv
 load_dotenv()
-openai.api_key = "  " // enter your openai api-key
+openai.api_key = "os.getenv("OPENAI_API_KEY") " 
 app = Flask(__name__)
 
 
@@ -41,7 +41,7 @@ Employment Particulars:
 - Notice Period: 
 - Work Preference:
 - Work Samples and Resume , available at the following link : 
-- For booking a call : https://calendly.com/
+- For booking a call : https://calendly.com/xyz
 
 Product Management Experience:
 - I did x, y,z
