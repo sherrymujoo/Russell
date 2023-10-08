@@ -10,13 +10,14 @@ Engage Directly: Book calls with candidates or request to view their work sample
 Deep Dive into Achievements: Request a summary of achievements, a list of skills, educational background, and much more.
 This project was a challenging yet rewarding endeavor, and I've learned immensely from it. I invite you to explore Russell and provide your valuable feedback.
 
-***Usage***
+***USAGE INSTRUCTIONS***
 To get started with Russell:
 
-Russell works only on Replit atm, atleast I was only able to make it work there. You just need to upload the app.py and home2.html files there and hit 
-deploy.
+Russell works only on Replit atm, atleast I was only able to make it work there. You just need to upload the app.py and home2.html files there 
 
-
+1. Main code resides in app.py and home2.html
+2. requirements.txt needs to go into the packager files section
+3. There may be issues with the default config files in replit. You may use the config file I've uploaded above. 
 
 For any queries, issues, or feedback, please contact:
 
