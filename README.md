@@ -1,5 +1,5 @@
 # Russell
-Russell
+
 Russell is a simple AI personal hiring assistant designed to streamline the hiring process, making it efficient and user-friendly for hiring managers, recruiters, and candidates alike.
 
 ***Description***
